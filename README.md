@@ -2,5 +2,5 @@
 
 Group Project - Group #7
 
-Students:
+Students: <br>
 Oliviero Balbinetti (18143056)
