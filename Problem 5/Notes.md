@@ -38,4 +38,4 @@ Openai -- toolkit for dev RL algorithms
 https://github.com/openai/gym
 https://github.com/openai/multiagent-particle-envs
 
-## ~~Dopamine by Google~~ --  No support multi-agent as-is. https://github.com/google/dopamine/tree/master/docs
+https://github.com/google/dopamine/tree/master/docs
