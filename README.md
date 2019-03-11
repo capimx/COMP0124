@@ -8,4 +8,5 @@ Students: <br>
 - Paul Melkert (17126116)
 
 This repository contains the solutions to the group assignment (AY: 2018/2019). <br>
-Written Python scripts are organised in folders according to the tasked problems.
+Written Python scripts are organised in folders according to the tasked problems. <br>
+Each file and script has a reference in the group report to let the reader find the corresponding analyses.
